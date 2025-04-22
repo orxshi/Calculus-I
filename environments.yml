@@ -1,0 +1,7 @@
+name: calculus-I-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
