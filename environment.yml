@@ -5,5 +5,3 @@ dependencies:
   - python=3.12
   - numpy
   - matplotlib
-  - ipympl
-  - ipywidgets
